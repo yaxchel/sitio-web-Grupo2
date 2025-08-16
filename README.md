@@ -19,11 +19,11 @@ Generan contenido en tiempo real basado en interacciones del usuario o datos de 
 Permiten la interacción con el usuario mediante JavaScript y tecnologías modernas, estas páginas, al proporcionar contenido pertinente y personalizado, facilitan que los usuarios hallen con facilidad lo que buscan, manteniendo su interés y promoviendo una mayor fidelidad del público. Ejemplo: aplicaciones web como Google Docs, juegos en navegador.
 
 
-## Uso de la etiqueta <style>
+### Uso de la etiqueta <style>
 <style> es un elemento de HTML5 y permite incluir CSS dentro de un documento HTML. Definen como se ven los elemento y como se comportan visualmente.
 Es obligatorio agregar la etiqueta <style> dentro de la sección <head> del documento, ara garantizar que los estilos se carguen antes de que se renderice el contenido del documento, asegurando que la página se vea como debería desde el primer momento.
 
-##Ejemplo - Estilosbásicos
+### Ejemplo - Estilosbásicos
   
 ```html
   <head>
@@ -45,4 +45,4 @@ Es obligatorio agregar la etiqueta <style> dentro de la sección <head> del docu
       font-size: 18px;
       text-align: justify;
     }
-</style>
+</style>´´´
