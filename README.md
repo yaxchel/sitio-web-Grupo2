@@ -20,3 +20,28 @@ Permiten la interacción con el usuario mediante JavaScript y tecnologías moder
 ### Uso de la etiqueta <style>
 <style> es un elemento de HTML5 y permite incluir CSS dentro de un documento HTML. Definen como se ven los elemento y como se comportan visualmente.
 Es obligatorio agregar la etiqueta <style> dentro de la sección <head> del documento, ara garantizar que los estilos se carguen antes de que se renderice el contenido del documento, asegurando que la página se vea como debería desde el primer momento.
+
+### Ejemplo
+  
+```html
+<head>
+  <title>Ejemplo de etiqueta style</title>
+  <style>
+    body {
+      background-color: #f0f0f0;
+    }
+    h1 {
+      color: #333;
+      text-align: center;
+    }
+    h2 {
+      color: navy;
+      margin-left: 20px;
+    }
+    p {
+      color: #666;
+      font-size: 18px;
+      text-align: justify;
+    }
+</style>
+</head>
